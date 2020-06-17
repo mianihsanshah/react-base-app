@@ -13,8 +13,7 @@ function App() {
       <h4>5.2:  <u>bug</u> in the workflow removed and its working now</h4>
       <h4>6:  React App is running <u>locally and remotely</u> on the surge, start learning React</h4>  
       <h4>7:  My <u>GitHub repo UTL and surge website URL</u> reported into panacloud git issues</h4>
-      <h4>7:  Test GitHub</h4>
-
+   
     </div>
   );
 }
