@@ -14,8 +14,6 @@ function App() {
       <h4>6:  React App is running <u>locally and remotely</u> on the surge, start learning React</h4>  
       <h4>7:  My <u>GitHub repo UTL and surge website URL</u> reported into panacloud git issues</h4>
 
-      <h4>7:  Test surge </h4>
-      <h4>7:  Test surge </h4>
     </div>
   );
 }
